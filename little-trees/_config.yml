@@ -34,6 +34,7 @@ markdown: kramdown
 remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
+fixed_navbar: top
 
 # Exclude from processing.
 # The following items will not be processed, by default.
