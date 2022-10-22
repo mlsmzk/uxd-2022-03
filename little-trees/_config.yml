@@ -29,11 +29,9 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
-# Markdown Processor
-markdown: kramdown
-
 # Build settings
-theme: minima
+markdown: kramdown
+remote_theme: chrisrhymes/bulma-clean-theme
 plugins:
   - jekyll-feed
 
