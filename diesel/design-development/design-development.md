@@ -2,7 +2,8 @@
 **Arla Sutton, Keanu Richards, Miles Mezaki, Katie Fleming, and Cara Mulrooney**
 ## **First Iteration**
 Our initial design aimed to connect small businesses to other small businesses in different industries to strengthen the general community and its members. We hoped that businesses from different industries wouldn’t see each other as competition and would be more inclined to work together. One of our preliminary visions was to encourage and enable small businesses to collaborate with one another in order to foster a sense of belonging, community, and involvement, which would lead to healthier neighborhoods and communities.
-![v1_business_page](/img/v1_business_page.JPG)
+
+![v1_business_page](./img/v1_business_page.jpg)
 
 Throughout this design process we explored various ways to connect small businesses, including a matching algorithm, an online marketplace, and a map sharing the locations of other businesses. Based on various pre-set criteria, businesses would be able to match and connect. These initial ideas culminated into a website platform that we brought to our first set of interviews. Initially, we were hoping to gauge interest in each of these features so that we could hone in on the best way to connect small business owners. Instead, this design failed at its conceptual level. Despite the interest that they had demonstrated during the last phase of our work, in practice, small businesses weren’t keen on collaborating with each other. Our initial product lacked the pragmatism that our user group valued. We pivoted the focus of the rest of our interviews to digging deeper into the needs of our user group and found that their difficulty hiring significantly outweighed any interest in our product. Please reference the “Second Iteration” section below for this alternative, more-refined version of our initial idea. 
 
@@ -14,18 +15,21 @@ We investigated the other half of our user group and found that many college stu
 
 ### **Our Approach**
 ![v2_match_page_b](./img/v2_match_page_business.JPG) 
-![v2_business_page](./img/v2_business_page.JPG),./
+![v2_business_page](./img/v2_business_page.JPG)
+
 Our approach to addressing this issue comes in the form of a sign-in website that matches small businesses with local college students and high schoolers over the age of 18. Small businesses will share the hours they need filled with our platform and input the requirements for employees (experience, references, skills, education, etc.). We then tailor results of a search to reflect candidates who best meet the criteria given. Our filters will guarantee that the potential employee can work during one or more of the time windows specified by the business, so the person doing the hiring in the small business can then vet candidates themselves and reach out.
+
 ![v2_chat](./img/v2_chat.JPG)
 
-	On the other end of things, students (potential employees) can input required personal information, like available hours, any job experience, and other potentially revealing fields like GPA. They will not have private data like home address or email shared with a company. We will have fields on our platform for candidates to input their experiences, certifications, and other achievements that they can autofill with a resume. While explicit location is not given, general location is helpful to find potential companies since location is another filter businesses can use to search. 
+On the other end of things, students (potential employees) can input required personal information, like available hours, any job experience, and other potentially revealing fields like GPA. They will not have private data like home address or email shared with a company. We will have fields on our platform for candidates to input their experiences, certifications, and other achievements that they can autofill with a resume. While explicit location is not given, general location is helpful to find potential companies since location is another filter businesses can use to search. 
+
 ![v2_student_profile](./img/v2_student_profile.JPG)
 A key challenge we’ve identified with this platform is security–our approach at this moment is to use school emails to verify that potential employees are indeed students, and to use verification through google maps and other apps to ensure that businesses are legitimate. We’re exploring other ways to make sure that interactions between businesses and students are safe, and that unnecessary information is not shared. 
 
 
 ### **User Research and Findings**
 Through interviews with multiple students and small businesses, we have identified a few key strengths and weaknesses of our interface. Using our rough paper prototypes, we were able to accurately convey our direction and approach and gather quality feedback. We heard from both user groups (small business owners and college students seeking employment) that the concept itself was strong and something that addressed a relevant need. The matching system was intuitive for both groups, and the search feature allowed for both groups to find relevant connections. The time availability feature was integral to the value of the platform, and we heard that we should continue to only show matches where hours and availability were compatible. We heard resoundingly that messaging should stay within the platform, rather than sharing personal contact information between parties at any point in the interaction. 
-	Using our paper prototypes, we also identified a variety of key points for improvements. The biggest points of discussion revolved around security and privacy, matching criteria, and ratings and recommendations. These takeaways are detailed below:
+Using our paper prototypes, we also identified a variety of key points for improvements. The biggest points of discussion revolved around security and privacy, matching criteria, and ratings and recommendations. These takeaways are detailed below:
 
 * **Security** is one of the facets of our interface that we should consider. There is potential for unwanted communication(i.e. spamming) and fraud.
 * Students don’t want to suggest an **hourly rate**, but they want to be able to filter by what is being offered by businesses.
