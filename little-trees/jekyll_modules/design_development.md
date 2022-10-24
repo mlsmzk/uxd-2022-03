@@ -11,12 +11,11 @@ The design that our team ended up choosing is an in-store shopping aide in the f
 As stated in our feature idea description, our solution needs to include an interface that can be quickly understood by the average consumer that allows them to identify the most sustainable product out of the options available to them in the store. This means that the information that our AR glasses present to the user needs to be streamlined, simple, and essential. 
 
 Our interface is composed of three key shopping phases:
-
-**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.
-
-**Explore**, where the user wishes to browse in the store before making purchasing decisions.
-
-**Search**, where the user is looking for a certain product in the store.
+|||
+| ----------- | ----------- |
+|**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.|![](./images/shopping_list.jpg)|
+|**Explore**, where the user wishes to browse in the store before making purchasing decisions.|![](./images/shopping_exp.jpg)|
+|**Search**, where the user is looking for a certain product in the store.|![](./images/shopping_options.jpg)|
 
 In each of these phases, our solution caters information specific to what is most helpful to the user. For the shopping list setting, entering an aisle that contains an item on your list prompts the screen shown in the table that indicates where the item is, and if there are alternatives that are more suitable to your preferences (these are set up during the one-time configuration phase). For the explore phase, items are suggested at the top of the screen, and these get more specific as you get closer to the shelf, or a specific item. Finally, for the search phase, a menu of only the products available in the store are shown to the user, and they are able to search or browse by category.
 
@@ -52,7 +51,7 @@ Finally, if a user is not very tech savvy, they will have a hard time comprehend
 
 
 ### What important alternative designs did you consider, either initially or during the refinement of this idea? Why did you reject them/prefer the one you chose?
-There were primarily three design alternatives that we were trying to decide between. They were: an in-store cart interface that allowed users to make smarter sustainability decisions, an AR glasses sustainability shopping experience, and a website that allowed users to more easily find information they needed regarding the sustainability of companies. 
+There were primarily three design alternatives that we were trying to decide between. They were: an in-store cart interface that allowed users to make smarter sustainability decisions, an AR glasses sustainability shopping experience, and a website that allowed users to more easily find information they needed regarding the sustainability of companies. To see preliminary ideation and prototyping, see the protoype photos linked above. 
 
 We went through our options and, as a team, decided to go with the AR glasses experience for a few reasons. It was better than the website because it provided more guidance and seemed more adaptive to the future. It was also better than the cart interface because it provided users with more privacy of their selections during their shopping experience; it was also much more immersive and would provide better guidance. Note that we had to accept a few assumptions so that our selection would be fitting. The first is that AR glasses would be the norm; this takes place in a future world where people use AR glasses like they use smartphones. Additionally, we created some personas of people we think would be our ideal customers, and tailored our experiences towards them.
 
