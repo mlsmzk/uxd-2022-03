@@ -1,0 +1,4 @@
+[submodule "febreze"]
+	path = febreze
+	url = git@github.com:smilg/febreze.git
+    branch = gh-pages
