@@ -5,7 +5,7 @@ show_sidebar: false
 menubar: design_development_menu
 permalink: /design-development/
 ---
-### What is Your Design?
+### What is Your Design!
 The design that our team ended up choosing is an in-store shopping aide in the form of AR glasses. Our core problem statement is that it is currently very difficult for consumers to compare companies based on their carbon footprint or other ESG (environmental, social, governance) metrics. If an individual wants to purchase a product or make an investment decision, they are not well informed on how each of the companies available to them practice environmental, social, and governmental responsibility. Therefore, our AR glasses solution empower users to utilize readily available statistics, without needing to spend hours of their own time parsing datatables online, to evaluate the items they are buying in real-time and to make optimal purchasing decisions for themselves.
 
 As stated in our feature idea description, our solution needs to include an interface that can be quickly understood by the average consumer that allows them to identify the most sustainable product out of the options available to them in the store. This means that the information that our AR glasses present to the user needs to be streamlined, simple, and essential. 
