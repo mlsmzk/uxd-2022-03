@@ -1,4 +1,15 @@
+- name: Needs Analysis
+  link: /needs-analysis-phase/needs-analysis/
 - name: Design Development
   link: /design-development-phase/design-development/
+  dropdown:
+    - name: Phase Description
+      link: /design-development-phase/phase-description/
+    - name: Design Idea 1 Artifacts
+      link: /design-development-phase/design-idea-1-artifacts/
+    - name: Feature Idea Description
+      link: /design-development-phase/feature-idea-description/
+    - name: Design Development
+      link: /design-development-phase/design-development/
 - name: Meet the Team
   link: /about-us/
