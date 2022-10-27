@@ -1,5 +1,12 @@
 - name: Needs Analysis
   link: /needs-analysis-phase/needs-analysis/
+  dropdown:
+    - name: Phase Description
+      link: /needs-analysis-phase/phase-description/
+    - name: Inspirational Designs
+      link: /needs-analysis-phase/inspirational-designs/
+    - name: Needs Analysis
+      link: /needs-analysis-phase/needs-analysis/
 - name: Design Development
   link: /design-development-phase/design-development/
   dropdown:
