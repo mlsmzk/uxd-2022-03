@@ -1,10 +1,10 @@
 - label: Phase Outline
   items:
     - name: Phase Description
-      link: /
+      link: /design-development-phase/phase-description/
     - name: Design Idea 1 Artifacts
-      link: /
+      link: /design-development-phase/design-idea-1-artifacts/
     - name: Feature Idea Description
-      link: /
+      link: /design-development-phase/feature-idea-description/
     - name: Design Development Submission
-      link: /design-development/
+      link: /design-development-phase/design-development/
