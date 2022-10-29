@@ -1,0 +1,6 @@
+- label: Phase Outline
+  items:
+    - name: Phase Description
+      link: /design-refinement-phase/phase-description/
+    - name: Design Refinement
+      link: /design-refinement-phase/design-refinement/

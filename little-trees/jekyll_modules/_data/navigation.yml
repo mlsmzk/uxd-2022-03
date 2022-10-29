@@ -18,5 +18,14 @@
       link: /design-development-phase/feature-idea-description/
     - name: Design Development
       link: /design-development-phase/design-development/
+- name: Design Refinement
+  link: /design-refinement-phase/design-refinement/
+  dropdown:
+    - name: Phase Description
+      link: /design-refinement-phase/phase-description/
+    - name: Design Refinement
+      link: /design-refinement-phase/design-refinement/
+- name: Photo Gallery
+  link: /photo-gallery/
 - name: Meet the Team
   link: /about-us/
