@@ -1,6 +1,10 @@
 - label: Phase Outline
   items:
-    - name: Phase Description
-      link: /design-refinement-phase/phase-description/
+    - name: Prototype Documentation
+      link: /design-refinement-phase/prototype-documentation/
+    - name: Cognitive Walkthrough
+      link: /design-refinement-phase/cognitive-walkthrough/
+    - name: Heuristic Evaluation
+      link: /design-refinement-phase/heuristic-evaluation/
     - name: Design Refinement
       link: /design-refinement-phase/design-refinement/

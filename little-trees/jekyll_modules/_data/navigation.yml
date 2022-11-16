@@ -1,8 +1,6 @@
 - name: Needs Analysis
   link: /needs-analysis-phase/needs-analysis/
   dropdown:
-    - name: Phase Description
-      link: /needs-analysis-phase/phase-description/
     - name: Consent Narrative
       link: /needs-analysis-phase/consent-narrative/
     - name: Inspirational Designs
@@ -12,8 +10,6 @@
 - name: Design Development
   link: /design-development-phase/design-development/
   dropdown:
-    - name: Phase Description
-      link: /design-development-phase/phase-description/
     - name: Design Idea 1 Artifacts
       link: /design-development-phase/design-idea-1-artifacts/
     - name: Feature Idea Description
@@ -23,8 +19,12 @@
 - name: Design Refinement
   link: /design-refinement-phase/design-refinement/
   dropdown:
-    - name: Phase Description
-      link: /design-refinement-phase/phase-description/
+    - name: Prototype Documentation
+      link: /design-refinement-phase/prototype-documentation/
+    - name: Cognitive Walkthrough
+      link: /design-refinement-phase/cognitive-walkthrough/
+    - name: Heuristic Evaluation
+      link: /design-refinement-phase/heuristic-evaluation/
     - name: Design Refinement
       link: /design-refinement-phase/design-refinement/
 - name: Photo Gallery
