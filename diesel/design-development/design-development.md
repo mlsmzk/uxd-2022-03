@@ -47,7 +47,7 @@ Using our paper prototypes, we also identified a variety of key points for impro
 
 To view more images from our ideation process and our full second iteration paper prototype, check out our [photo album](https://drive.google.com/drive/folders/1-0j2wtCyLE50TkwwjoPTAUCwgwQ93Oql?usp=sharing).
 
-To see our team effort map for this phase, please consult [Team Effort Map](EffortMapPhase2.jpg)
+To see our team effort map for this phase, please consult ![Team Effort Map](./img/EffortMapPhase2.jpg)
 
 
 
