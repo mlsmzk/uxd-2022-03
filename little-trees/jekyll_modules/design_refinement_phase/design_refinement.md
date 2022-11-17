@@ -5,7 +5,7 @@ show_sidebar: false
 menubar: design_refinement_menu
 permalink: /design-refinement-phase/design-refinement/
 ---
-### What is your design? How does it work?
+### What is your design?
 This description is an overview of what is written in the [Design Development Submission](../design_development_phase/design_development.md), with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our [Cognitive Walkthrough](cognitive_walkthrough.md).
 
 The design that our team ended up choosing is an in-store shopping aide in the form of AR glasses. Our core problem statement is that it is currently very difficult for consumers to compare companies based on their carbon footprint or other ESG (environmental, social, governance) metrics. Our AR glasses solution empower users to utilize readily available statistics, without needing to spend hours of their own time parsing datatables online, to evaluate the items they are buying in real-time and to make optimal purchasing decisions for themselves.
@@ -13,7 +13,7 @@ The design that our team ended up choosing is an in-store shopping aide in the f
 As stated in our feature idea description, our solution needs to include an interface that can be quickly understood by the average consumer that allows them to identify the most sustainable product out of the options available to them in the store. This means that the information that our AR glasses present to the user needs to be streamlined, simple, and essential. 
 
 Our interface is composed of three key shopping phases:
-||||
+||Paper Prototype|Figma|
 | ----------- | ----------- | ----------- |
 |**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.|![](../images/shopping_list.jpg)| ![](../images/figma_shopping_list.png) |
 |**Explore**, where the user wishes to browse in the store before making purchasing decisions.|![](../images/shopping_exp.jpg)| ![](../images/figma_explore.png)|
@@ -22,6 +22,7 @@ Our interface is composed of three key shopping phases:
 
 ### How Does it Work?
 ![Interaction Flow](../images/interaction_flow.png)
+
 Our AR product works in 4 steps, originally, and 2.5 steps after the user becomes a routine shopper. the first step of onboarding is to give users an example of what a shopping experience might look like through an at-home simulation where they can get a description of our app, overlaid in their environment, interact with grocery store objects in their home, and see the core features superimposed on those objects.Because the users we have will prefer variation in how they see data and compare products, we want to set up these modes and a user can manually change them after. Information about where a user shops, what stage of life they’re in, typical products on their list help us gather enough information to recommend items a shopper might like. The modes for shopping that we developed were recommended by Professor. He mentioned that in addition to giving users modes, part of the onboarding should be spent learning about their priorities while shopping. To paraphrase, he mentioned: “Do they care more about price or sustainability or something else? I would pay more for a product if it was more sustainable but that’s a specific fact about me as a shopper.” 
 
 While a user is in store, sections of the aisle will be highlighted for them, giving them information about where to find an item. As they approach and view the item we recommended for them, more information will appear at a set time interval (ex: every five seconds, more statistics and products will appear). Users can compare products that are next to each other, and we will give them information about the price, user reviews, sustainability score, externalities of buying the product, if there is a product available at another store that’s more sustainable, etc. 
@@ -61,7 +62,7 @@ Because we were not able to conduct real user testing with members in our person
 
 
 ### What questions do you have now about your project (i.e., are there things you would like to investigate)? What shortcomings are you aware of?
-1. In what ways can we make our platform more accommodating especially to those users who might have certain physical limitations. Is it okay to just assume that all our intended users are able and do not need accommodation or should we go ahead and think about that.
+1. In what ways can we make our platform more accommodating especially to those users who might have certain physical limitations? Is it okay to just assume that all our intended users are able and do not need accommodation or should we go ahead and think about that?
 2. How can every user feel represented accurately especially during the onboarding process? This is because the feedback we got insinuates that the grouping of personas was biased and had some negative connotations attached to our descriptions. As a result, users would refrain from associating with the descriptions (even though we are right about shopping behavior).
 3. Are there possible ways to ensure that users understand what symbols–like leaves–insinuate without having to give exhaustive instructions on what each of them means?
 4. To what extend should the group consider the feedback that we got from peers? Is the group allowed to choose what to implement and what to leave as it currently is or should all the feedback received be implemented? 
