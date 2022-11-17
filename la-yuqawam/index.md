@@ -104,3 +104,50 @@ After going through the design development process for Adögi, we, as a team hav
 
 
 
+***
+
+# Adögi - Design Refinement Submission
+### By: Pris, Tolu, Hannah, Walter, and Jaclyn
+
+*** 
+## 1. What is your design? How does it work?
+
+As was mentioned in the previous stages, our design for the Adogi app takes a substantial amount of influence from dating apps such as Tinder, and considering this we aimed to follow most of the conventions that dating apps tend to be built by, such as the “swipe right means yes and swipe left means no” feature that is so common to these apps. Additionally keeping in mind that we wanted to aim for a streamlined onboarding process we also took the time to design out two different incarnations of what an expedited onboarding experience would look like for a user looking to adopt a pet. We initially believed that the user experience we created was fairly intuitive, and by most metrics it was, but between the move from paper prototypes to Figma flows, we had to abstract some of our original concepts. 
+
+
+Following several rounds of synthesizing observations from the previous stages of the design development process, our team decided to focus on creating ‘Adögi’, a mobile/web application that helps remove some of the barriers that currently exist in the world of pet adoption. The name ‘Adögi’ comes from a combination of ‘adoptee' and ‘dog’, with the umlaut playing into the app logo to make the face of a furry friend.
+
+In terms of preliminary design ideas, our group opted to journal a few key ideas that we thought would be integral to the user experience of the app. Some features we kept top of mind were a streamlined onboarding process, an intuitive UI, and a platform that offered continued utility even after a user found and successfully adopted their dream pet. Keeping all of this in mind we began exploring different mobile app categories to determine which would be the best way to manifest our solution. During this analysis some of the categories we found to be particularly interesting were dating apps because of their ability to foster intimate relationships, social media apps because of their ability to build communities of various sizes, and AR/VR apps because of their high level of intractability.  
+
+
+*** 
+## 2. What changed (especially: between paper prototyping and the proposed final design), and why did you change it?
+
+The primary thing that changed from our paper prototype to our final design was the idea of having a user have a “Like” section where they would be able to see the pets that they matched too. We realized that this was something that was unnecessary to the user experience of the adopter. In addition, we made the change of having an entry point to submit a dog adoption application from the chat user interface. This intentionally limits the user to not spam adoption requests to random pet owners who are putting their pets up for adoption. Additionally, a change we made can be seen on the chat feature, where by clicking the information icon, users can view the pet’s profile, giving users easy access to seeing who they have matched with from the chat interface. This change was made because we realized that this feature was a standard across existing matching apps, and that if a user needed to exit the chat to view their likes, it would add friction to the process. We also added the ability to view owner’s profiles from the pet profile so that pet adopters can build trust with the users behind the pet, and also browse other pet listings if the owner is posting on behalf of a shelter. 
+
+
+*** 
+## 3. Trade-offs to turning to online:
+
+When it came to moving from the paper prototypes to the digital interpretation on Figma a few of the tradeoffs that we experienced related to how the flows became more tedious to demonstrate. Despite now having more realistic representation of what the final product would look like there was an unignorable learning curve with navigating how different key interface attributes would translate to this new medium. Because of this the model that we were able to get feedback from during the heuristic evaluation stage leaked features such as (such as swiping). In addition to this it became harder to visualize the undo/previous buttons and any possible animations/keyframes involved with the buttons we intended to create. This could be chalked up to the learning curve issue, and we intend to take the time to research how these more novel features could be implemented (similarly as to how we were able to accomplish key reames with transparencies during the paper prototype phase). Lastly due to the fact that we were essentially building the plane as we flew, remembering to give the user freedom was something we fell short of doing as we were focused on the linear workflow of signing up, to getting onboarded, to browsing for different pets.
+
+When refining our prototype, we decided to move from a paper prototype to a digital prototype hosted in Figma for a higher fidelity prototype. There were 2 main trade-offs we committed to because of this switch. The first one was that the flows were more tedious to demonstrate in Figma but we get more realistic interactions with buttons and clicks. The realistic interaction was one of the important reasons why we decided to pursue a more hi-fi prototype. The second trade-off was it was difficult to remember to give users freedom on a digital prototype. On a paper prototype, the user can always flip to any page they want if they get stuck. On a digital prototype, the user can’t easily get out of being stuck unless we have fully implemented a strong set of undo/back buttons. It was harder for us as designers to visualize when the user needed undo/back buttons.
+
+
+*** 
+## 4. What key insights did you gain during this phase? What evidence supports these insights?
+
+One of the most interesting insights that we gained during this phase has been the importance of making certain experiences feel resemblant of popular apps while not having the same connotation as some of them. We were able to hear from the group that evaluated our app design that while some of our designs reminded them of the user experience of apps that they have used in the past, the similar interface design made them develop a certain bias towards our app’s purpose. From the feedback that we received, we understood that there was a difference between familiarity and similarity to the app’s UX and UI. While we wanted to make learning how to use the app seamless, we realized that our designs gave off the undesired connotations that come with using similar user experiences. We were advised to follow the sophistication of certain apps that do similar jobs as the ones we originally chose without having the negative connotations. 
+
+Secondly, keeping our UX flows lightweight was an insight that while we had as a goal for our design creation we found to be critical to the outcome of our platform. The primary point of evidence to indicate that we still needed to work on this revolves around our feedback given in person from another team. 
+
+Lastly, insights from the usability heuristics allowed us to craft better experiences. Keeping the usability heuristics in mind when designing these mobile screens when it came to being able to exit/have freedom in navigating our app was important to note since we were unable to identify gaps in our UX flows. We realized users wanted to see an overview of the information that we were presenting before diving into something, and finding the balance between adding another screen and making it feel lightweight is a challenge we will be phasing in the upcoming phase of iteration. 
+
+*** 
+## 5. What questions do you have now about your project (i.e., are there things you would like to investigate)? What shortcomings are you aware of ?
+
+We have many actionable steps that were consolidated from our feedback sessions, as well as general design critiques within the team, but one of the most pressing questions that we are trying to find the answer to revolves around adding more with having less. This is common when having a vast amount of information and processes. How do we retain the user’s attention throughout the onboarding phase? How do we limit drop off? Do we hide or show certain things in certain places? How do we indicate this to the user? At what time? These questions are points to think about when iterating upon our design, and we are glad we don’t have clear answers to them yet. By creating, testing, and critiquing more designs, we will be able to find a sweet spot in delivering a usable, informative, and enjoyable experience to our users.
+
+
+
+
