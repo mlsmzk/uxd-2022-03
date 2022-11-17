@@ -149,5 +149,11 @@ Lastly, insights from the usability heuristics allowed us to craft better experi
 We have many actionable steps that were consolidated from our feedback sessions, as well as general design critiques within the team, but one of the most pressing questions that we are trying to find the answer to revolves around adding more with having less. This is common when having a vast amount of information and processes. How do we retain the user’s attention throughout the onboarding phase? How do we limit drop off? Do we hide or show certain things in certain places? How do we indicate this to the user? At what time? These questions are points to think about when iterating upon our design, and we are glad we don’t have clear answers to them yet. By creating, testing, and critiquing more designs, we will be able to find a sweet spot in delivering a usable, informative, and enjoyable experience to our users.
 
 
+***
 
+## Effort:
+
+| Name | Effort | Reasoning |
+| --- | --- | --- |
+| Pris, Tolu, Hannah, Walter, and Jaclyn | 5/5 | All put in top tier effort |
 
