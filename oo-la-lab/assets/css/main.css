@@ -2176,11 +2176,11 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url("../../images/header.jpg");
+		background-image: url("../../images/BannewRedone.jpg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
-		color: #fff;
+		color: rgb(0, 0, 0);
 		text-align: center;
 		padding: 7.5em 0 2em 0;
 		cursor: default;
@@ -2206,12 +2206,12 @@ input, select, textarea {
 		}
 
 			#header header > p {
-				font-size: 1.25em;
+				font-size: 1.75em;
 				margin: 0;
 			}
 
 		#header h1 {
-			color: #fff;
+			color: rgb(0, 0, 0);
 			font-size: 3em;
 			line-height: 1em;
 		}
@@ -2286,6 +2286,7 @@ input, select, textarea {
 		top: 0;
 		left: 0;
 		width: 100%;
+		font-size: 1.5em;
 		text-align: center;
 		padding: 1.5em 0 1.5em 0;
 		z-index: 1;
