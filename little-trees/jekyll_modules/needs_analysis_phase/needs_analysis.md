@@ -15,7 +15,7 @@ This matters for individuals who care about (or can use) sustainability and ESG 
 <img 
     src="/uxd-2022-03/little-trees/images/techno_todd.png"
     style=" display:block; margin-left:auto; margin-right:auto"
-    width="600"
+    width="800"
 />
 
 Techno Todd is representative of people who can afford the luxury of purchasing more environmentally-friendly products and services, even if they are more expensive. Unlike a more price-conscious consumer, Todd is willing to pay a premium if it means his purchases better align with his values. Todd is sustainably-minded due to his surroundings and upbringing, and this is reflected in his personal habits. Todd probably won’t go out of his way to obtain data from individual companies, but would appreciate the help of a platform that makes it easy to choose where to purchase from.
@@ -23,7 +23,7 @@ Techno Todd is representative of people who can afford the luxury of purchasing 
 <img 
     src="/uxd-2022-03/little-trees/images/activist_amy.png"
     style=" display:block; margin-left:auto; margin-right:auto"
-    width="600"
+    width="800"
 />
 
 Activist Amy captures the young, driven demographic that is worried about the future of the planet if substantial changes aren’t made. Amy is concerned about the amount of misinformation on the internet, and wants to see large corporations held accountable for the amount of waste they put into the environment. While she might not have significant sway with her consumer spending, she would support a platform that encourages and empowers people to choose more eco-friendly companies to buy from.
@@ -31,7 +31,7 @@ Activist Amy captures the young, driven demographic that is worried about the fu
 <img 
     src="/uxd-2022-03/little-trees/images/poorly_informed_penelope.png"
     style=" display:block; margin-left:auto; margin-right:auto"
-    width="600"
+    width="800"
 />
 
 Poorly-informed Penelope is an important persona, even if she is not as deeply interested or committed to sustainability and ESG. While she isn’t as knowledgeable of sustainability, she has the broad understanding that it is generally a good thing. She picked this up from her experience living in Portland, where her neighbors and friends are frequently emphasizing their sustainable lifestyles. She too, wants to make the world better, but doesn’t see a clear path towards how. Importantly, she is also highly price conscious. She won’t pay extra for sustainable/responsible products, but she might opt for a more sustainable option in the edge-cases where two products are otherwise identical in function and price. However, she has struggled to identify what is really green vs “greenwashing,” and struggles to make informed decisions about sustainability.
@@ -41,7 +41,7 @@ There is also a subset of the population that we might not be able to design for
 <img 
     src="/uxd-2022-03/little-trees/images/denier_david.png"
     style=" display:block; margin-left:auto; margin-right:auto"
-    width="600"
+    width="800"
 />
 
 Denier David is someone who is not looking for a solution to climate change. He is financially incentivized to deny climate change, and is not making ever-day decisions based on sustainability. Even with sufficient data, he doesn’t want to believe it, and doesn’t see it as an issue, or something worth caring about. 
@@ -49,7 +49,7 @@ Denier David is someone who is not looking for a solution to climate change. He 
 <img 
     src="/uxd-2022-03/little-trees/images/apathetic_amelia.png"
     style=" display:block; margin-left:auto; margin-right:auto"
-    width="600"
+    width="800"
 />
 
 While Apathetic Amelia is well educated and highly knowledgeable about sustainability, she is very apathetic about how her decisions affect the environment. For Amelia, her priorities are to keep herself and her family happy and healthy. Sustainability does not play a major role in this equation, and is not a major consideration (if at all) when she makes decisions and consumer purchases. With her friends, she can hold a conversation about sustainability, but doesn’t care to practice it much within her own life as it’s too much work, and she doesn’t think it’s her responsibility. Instead, she believes the obligation to practice ESG falls on companies.
