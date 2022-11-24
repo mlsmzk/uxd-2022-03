@@ -26,10 +26,10 @@ Although we are unable to provide monetary compensation, we will compensate in t
 
 
 ### Contact
-#### Course Instructor 
+Course Instructor 
 - Amon Millner (Amon.Millner@olin.edu)
 
-#### Team Members
+Team Members
 - Alex Matsoukas (amatsoukas@olin.edu)
 - Lydia Sammy (lsammy1@babson.edu)
 - Will Li (wli7@babson.edu)
