@@ -13,15 +13,19 @@ As stated in our feature idea description, our solution needs to include an inte
 Our interface is composed of three key shopping phases:
 |||
 | ----------- | ----------- |
-|**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.|![](../images/shopping_list.jpg)|
-|**Explore**, where the user wishes to browse in the store before making purchasing decisions.|![](../images/shopping_exp.jpg)|
-|**Search**, where the user is looking for a certain product in the store.|![](../images/shopping_options.jpg)|
+|**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.|<img src="/uxd-2022-03/little-trees/images/shopping_list.jpg" alt="" width="600">|
+|**Explore**, where the user wishes to browse in the store before making purchasing decisions.|<img src="/uxd-2022-03/little-trees/images/shopping_exp.jpg" alt="" width="600">|
+|**Search**, where the user is looking for a certain product in the store.|<img src="/uxd-2022-03/little-trees/images/shopping_options.jpg" alt="" width="600">|
 
 In each of these phases, our solution caters information specific to what is most helpful to the user. For the shopping list setting, entering an aisle that contains an item on your list prompts the screen shown in the table that indicates where the item is, and if there are alternatives that are more suitable to your preferences (these are set up during the one-time configuration phase). For the explore phase, items are suggested at the top of the screen, and these get more specific as you get closer to the shelf, or a specific item. Finally, for the search phase, a menu of only the products available in the store are shown to the user, and they are able to search or browse by category.
 
 
 ### How Does it Work?
-![Interaction Flow](../images/interaction_flow.png)
+<img 
+    src="/uxd-2022-03/little-trees/images/interaction_flow.png"
+    style=" display:block; margin-left:auto; margin-right:auto"
+    width="600"
+/>
 
 Our AR product works in 4 steps, originally, and 2.5 steps after the user becomes a routine shopper. After users download our product from the Meta AR app store, they will complete five onboarding steps that give us information about them as a shopper. We have questions about what type of shopper they are, how we can help in their shopping experience, what the core features of our app are, and more. Because AR is a new experience for some, the first step of onboarding is to give users an example of what a shopping experience might look like through an at-home simulation where they can get a description of our app, overlaid in their environment, interact with grocery store objects in their home, and see the core features superimposed on those objects. It’s important for users onboard in augmented reality instead of their mobile device. In order to create a database of the shopper’s typical goods and where/how they shop, we want to learn about their habits. We’ve created subpersonas of Techno Todd (our main persona) like an uncontrollable shopper (hint: this is the football fan at costco with 3 packs of tortilla chips). The shopper information helps us know which AR mode to give a shopper. Because the users we have will prefer variation in how they see data and compare products, we want to set up these modes and a user can manually change them after. Information about where a user shops, what stage of life they’re in, typical products on their list help us gather enough information to recommend items a shopper might like. The worst case is when a shopper standing in an aisle inputting onboarding-like information because we know them well enough. Even worse if they have a child who is running around Costco looking for free samples while they’re finding a more sustainable cereal and type out where they’re shopping from. We were very fortunate to have been able to present a basic paper prototype to a local professor teaching sustainable entrepreneurship, who is willing to pay more to live an eco-conscious lifestyle (which lines up with our intended user base); we will refer to this user as Professor, to preserve his anonymity. The modes for shopping that we developed were recommended by Professor. He mentioned that in addition to giving users modes, part of the onboarding should be spent learning about their priorities while shopping. To paraphrase, he mentioned: “Do they care more about price or sustainability or something else? I would pay more for a product if it was more sustainable but that’s a specific fact about me as a shopper.” We added a section for user priorities after Professor’s recommendation. 
 
@@ -73,12 +77,12 @@ How is this different from conducting direct needs-analysis interviews? Instead 
 
 
 ### Phase Effort Distribution
-| Task      | Team Member(s) |
-| ----------- | ----------- |
-| Ideation, Sketching, Prototyping      | All       |
-| Question 1 Writeup   | Alex        |
-| Question 2 Writeup   | Zayn        |
-| Question 3 Writeup   | Lydia        |
-| Question 4 Writeup   | Yehya        |
-| Question 5 Writeup   | Will        |
-| Website Setup  | Alex        |
+| Task                             | Team Member(s) |
+| -------------------------------- | -------------- |
+| Ideation, Sketching, Prototyping | All            |
+| Question 1 Writeup               | Alex           |
+| Question 2 Writeup               | Zayn           |
+| Question 3 Writeup               | Lydia          |
+| Question 4 Writeup               | Yehya          |
+| Question 5 Writeup               | Will           |
+| Website Setup                    | Alex           |
