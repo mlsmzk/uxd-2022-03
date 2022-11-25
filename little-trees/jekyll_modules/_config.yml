@@ -32,7 +32,7 @@ theme_color: '#00d1b2'
 
 # Build settings
 markdown: GFM
-remote_theme: chrisrhymes/bulma-clean-theme
+theme: bulma-clean-theme
 plugins:
   - jekyll-feed
 fixed_navbar: top
