@@ -24,14 +24,13 @@ This course operates over the course of 4 months from September to December. We 
 ### Compensation
 Although we are unable to provide monetary compensation, we will compensate in the form of gratitude :). You will be contributing to a more fulfilling and involved education for our team.
 
-
 ### Contact
 Course Instructor 
-- Amon Millner (Amon.Millner@olin.edu)
+- Amon Millner (<a class="normal_link" href="mailto:Amon.Millner@olin.edu" target="_blank"><span>Amon.Millner</span><span>@olin.edu</span></a>)
 
 Team Members
-- Alex Matsoukas (amatsoukas@olin.edu)
-- Lydia Sammy (lsammy1@babson.edu)
-- Will Li (wli7@babson.edu)
-- Yehya Albakri (yalbakri@olin.edu)
-- Zayn Patel (zpatel@olin.edu)
+- Alex Matsoukas (<a class="normal_link" href="mailto:amatsoukas@olin.edu" target="_blank"><span>amatsoukas</span><span>@olin.edu</span></a>)
+- Lydia Sammy (<a class="normal_link" href="mailto:lsammy1@babson.edu" target="_blank"><span>lsammy1</span><span>@babson.edu</span></a>)
+- Will Li (<a class="normal_link" href="mailto:wli7@babson.edu" target="_blank"><span>wli7</span><span>@babson.edu</span></a>)
+- Yehya Albakri (<a class="normal_link" href="mailto:yalbakri@olin.edu" target="_blank"><span>yalbakri</span><span>@olin.edu</span></a>)
+- Zayn Patel (<a class="normal_link" href="mailto:zpatel@olin.edu" target="_blank"><span>zpatel</span><span>@olin.edu</span></a>)
