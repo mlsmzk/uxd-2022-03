@@ -11,6 +11,7 @@ In our proposed AR glasses solution, this core feature presents itself in severa
 - **Shopping List**, where the user has a set amount of items they wish to buy before entering the store
 - **Explore**, where the user wishes to browse in the store before making purchasing decisions
 - **Search**, where the user is looking for a certain product in the store,
+
 and the user may switch between these options during their shopping trip.
 
 In the Shopping List experience, the comparison feature is less explicit because the user came to the store with specific items in mind; however, our interface flags products that are non-sustainable and gives the user the option to change their selection, if they wish.
