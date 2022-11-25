@@ -8,17 +8,17 @@ permalink: /needs-analysis-phase/inspirational-designs/
 ### List of Inspirational Designs (Compiled as a Group)
 - Google Maps Eco – indicator for routes
 - Google flights emission for quotes flight, and comparison to average
-- <a href="https://www.climateneutral.org/about" target="_blank">Climate Neutral</a> – startup giving consumers information on brands that emit low carbon/carbon equivalents & helping brands track their data
-- <a href="https://www.kizytracking.com/" target="_blank">Kizy</a> End-to-End supply chain visibility tracking – One use-case of this tracker is for companies that want more visibility over their supply chain efficiency. Has an online dashboard to access sensor data from the tracker that they incorporate into their package - available also with an API.
-- <a href="https://www.apple.com/environment/" target="_blank">Apple</a> has environment as part of its sales strategy
-- <a href="https://www.aboutamazon.com/news/aws/data-helps-aws-customers-cut-their-carbon-emissions" target="_blank">AWS Carbon Footprint Tool</a> –  Amazon Web Services presents users with the emissions associated with their use of AWS to help them meet their carbon reduction goals. Their dashboard includes Scope 1 and Scope 2 emissions.
-- <a href="https://www.aklimate.co.uk/" target="_blank">Aklimate (UK)</a> – startup that allows suppliers to log their carbon emissions & gives them recommendations on carbon reduction pathways
-- <a href="https://www.co2analytics.com/about-us" target="_blank">CO2 Analytics</a> – startup that’s doing accounting from businesses
-- <a href="https://watershed.com/customers" target="_blank">Watershed</a> – This business helps companies reduce their carbon emissions and it provides data on different companies.
-- <a href="https://www.epa.gov/ghgreporting–" target="_blank">EPA</a> – Greenhouse gas reporting program for companies in different sectors
-- <a href="https://dribbble.com/shots/18542067-Profitize-SaaS-Analytics-Tool" target="_blank">Profitize</a> – Dribble dashboard that shows analytics of a company. 
-- <a href="https://dribbble.com/shots/18589528-Salence-E-commerce-Analytics-Web-App" target="_blank">Salence</a> – Dribble dashboard with analytics of a company. 
-- <a href="https://versus.com/en/beats-studio3-wireless-vs-sony-wh-1000xm3" target="_blank">Versus</a> - Electronics devices, food, and educational institutions, review aggregator and comparison tool
+- <a class="normal_link" href="https://www.climateneutral.org/about" target="_blank">Climate Neutral</a> – startup giving consumers information on brands that emit low carbon/carbon equivalents & helping brands track their data
+- <a class="normal_link" href="https://www.kizytracking.com/" target="_blank">Kizy</a> End-to-End supply chain visibility tracking – One use-case of this tracker is for companies that want more visibility over their supply chain efficiency. Has an online dashboard to access sensor data from the tracker that they incorporate into their package - available also with an API.
+- <a class="normal_link" href="https://www.apple.com/environment/" target="_blank">Apple</a> has environment as part of its sales strategy
+- <a class="normal_link" href="https://www.aboutamazon.com/news/aws/data-helps-aws-customers-cut-their-carbon-emissions" target="_blank">AWS Carbon Footprint Tool</a> –  Amazon Web Services presents users with the emissions associated with their use of AWS to help them meet their carbon reduction goals. Their dashboard includes Scope 1 and Scope 2 emissions.
+- <a class="normal_link" href="https://www.aklimate.co.uk/" target="_blank">Aklimate (UK)</a> – startup that allows suppliers to log their carbon emissions & gives them recommendations on carbon reduction pathways
+- <a class="normal_link" href="https://www.co2analytics.com/about-us" target="_blank">CO2 Analytics</a> – startup that’s doing accounting from businesses
+- <a class="normal_link" href="https://watershed.com/customers" target="_blank">Watershed</a> – This business helps companies reduce their carbon emissions and it provides data on different companies.
+- <a class="normal_link" href="https://www.epa.gov/ghgreporting–" target="_blank">EPA</a> – Greenhouse gas reporting program for companies in different sectors
+- <a class="normal_link" href="https://dribbble.com/shots/18542067-Profitize-SaaS-Analytics-Tool" target="_blank">Profitize</a> – Dribble dashboard that shows analytics of a company. 
+- <a class="normal_link" href="https://dribbble.com/shots/18589528-Salence-E-commerce-Analytics-Web-App" target="_blank">Salence</a> – Dribble dashboard with analytics of a company. 
+- <a class="normal_link" href="https://versus.com/en/beats-studio3-wireless-vs-sony-wh-1000xm3" target="_blank">Versus</a> - Electronics devices, food, and educational institutions, review aggregator and comparison tool
 
 
 ### Most Liked Features
@@ -69,7 +69,7 @@ Bad features:
 
 
 #### Zayn Patel
-Design selected: <a href="https://www.climateneutral.org/about" target="_blank">Climate Neutral</a>
+Design selected: <a class="normal_link" href="https://www.climateneutral.org/about" target="_blank">Climate Neutral</a>
 
 <img 
     src="/uxd-2022-03/little-trees/images/carbon_neutral.png"
@@ -81,9 +81,9 @@ Design selected: <a href="https://www.climateneutral.org/about" target="_blank">
 <br>
 <strong style="color:#f6b26b;">// Bad</strong>
 
-Our idea is to create a two-sided carbon accounting platform. Consumers use the platform to view companies' carbon emissions and companies use it to log their emissions. <strong style="color:#4a86e8;">Climate Neutral is a competing company with an elegant design and color palette.</strong> <a href="https://www.climateneutral.org/brand/5daydeal" target="_blank">On each company page</a>, you can view the measured amount of carbon in the core emission sectors (scope 1, scope 2, scope 3). <strong style="color:#f6b26b;">Climate Neutral doesn’t have graphs explaining what is contained within scope 1, scope 2, and scope 3 emissions.</strong> As a curious consumer, this is an interesting design tool to have. As a business, <strong style="color:#f6b26b;">I’d like to see a visual distribution and machine learned recommended actions to take so I can reduce my emissions footprint.</strong> 
+Our idea is to create a two-sided carbon accounting platform. Consumers use the platform to view companies' carbon emissions and companies use it to log their emissions. <strong style="color:#4a86e8;">Climate Neutral is a competing company with an elegant design and color palette.</strong> <a class="normal_link" href="https://www.climateneutral.org/brand/5daydeal" target="_blank">On each company page</a>, you can view the measured amount of carbon in the core emission sectors (scope 1, scope 2, scope 3). <strong style="color:#f6b26b;">Climate Neutral doesn’t have graphs explaining what is contained within scope 1, scope 2, and scope 3 emissions.</strong> As a curious consumer, this is an interesting design tool to have. As a business, <strong style="color:#f6b26b;">I’d like to see a visual distribution and machine learned recommended actions to take so I can reduce my emissions footprint.</strong> 
 
-<strong style="color:#4a86e8;">Climate Neutral has an offset feature which shows the amount invested in Carbon Credits/Forestry.</strong> As the amount of climate research increases and policy changes, offsets are no longer as praised as they used to be. <a href="https://www.offsetguide.org/concerns-about-carbon-offset-quality/#:~:text=%E2%80%9CCarbon%20offset%20credits%20do%20not,make%20other%20environmental%20problems%20worse.%E2%80%9D" target="_blank">Carbon credits have had increased scrutiny</a>, especially with questions on their validity. <strong style="color:#4a86e8;">As opposed to showing how companies are offsetting, consumers could see news pieces/company reports about the shifts companies are making in their strategies as a result of their carbon data.</strong> For example, apparel companies choosing another supplier that emits less carbon. 
+<strong style="color:#4a86e8;">Climate Neutral has an offset feature which shows the amount invested in Carbon Credits/Forestry.</strong> As the amount of climate research increases and policy changes, offsets are no longer as praised as they used to be. <a class="normal_link" href="https://www.offsetguide.org/concerns-about-carbon-offset-quality/#:~:text=%E2%80%9CCarbon%20offset%20credits%20do%20not,make%20other%20environmental%20problems%20worse.%E2%80%9D" target="_blank">Carbon credits have had increased scrutiny</a>, especially with questions on their validity. <strong style="color:#4a86e8;">As opposed to showing how companies are offsetting, consumers could see news pieces/company reports about the shifts companies are making in their strategies as a result of their carbon data.</strong> For example, apparel companies choosing another supplier that emits less carbon. 
 
 <strong style="color:#f6b26b;">Lastly, in the Reduction Actions they give vague graphics about the progress a company has made toward a goal. There isn’t a clear how either. Adding a live dashboard for how a company’s actions are affecting their progress towards a goal could bring more optimism from consumers and hold more businesses to the improvements they state.</strong> 
 
