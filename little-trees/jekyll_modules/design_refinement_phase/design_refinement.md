@@ -6,7 +6,7 @@ menubar: design_refinement_menu
 permalink: /design-refinement-phase/design-refinement/
 ---
 ### What is your design?
-This description is an overview of what is written in the [Design Development Submission](../design_development_phase/design_development.md), with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our [Cognitive Walkthrough](cognitive_walkthrough.md).
+This description is an overview of what is written in the <a class="normal_link" href="/uxd-2022-03/little-trees/design-development-phase/design-development/">Design Development Submission</a>, with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our <a class="normal_link" href="/uxd-2022-03/little-trees/design-refinement-phase/cognitive-walkthrough/">Cognitive Walkthrough</a>.
 
 The design that our team ended up choosing is an in-store shopping aide in the form of AR glasses. Our core problem statement is that it is currently very difficult for consumers to compare companies based on their carbon footprint or other ESG (environmental, social, governance) metrics. Our AR glasses solution empower users to utilize readily available statistics, without needing to spend hours of their own time parsing datatables online, to evaluate the items they are buying in real-time and to make optimal purchasing decisions for themselves.
 
