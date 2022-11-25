@@ -6,7 +6,7 @@ menubar: design_refinement_menu
 permalink: /design-refinement-phase/prototype-documentation/
 ---
 ### Link to System
-<a href="https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1" target="_blank">
+<a class="normal_link" href="https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1" target="_blank">
     Figma Interactive Prototype
 </a>
 
