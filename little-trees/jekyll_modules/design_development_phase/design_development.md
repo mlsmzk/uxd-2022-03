@@ -37,7 +37,7 @@ After they’ve completed their shopping experience and have arrived home, we wi
 
 Steps 2, 3, 4 will be repeated every time a user shops with us.
 
-<a href="https://drive.google.com/drive/folders/1zWxhQ8zMW5KNvaLQKRvdNQqMzig9nd1f?usp=sharing" target="_blank">
+<a class="normal_link" href="https://drive.google.com/drive/folders/1zWxhQ8zMW5KNvaLQKRvdNQqMzig9nd1f?usp=sharing" target="_blank">
     Our Lo-Fi Prototype Photos Showing how the Experience Works
 </a>
 
