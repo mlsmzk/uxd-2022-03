@@ -27,7 +27,19 @@
       link: /design-refinement-phase/heuristic-evaluation/
     - name: Design Refinement
       link: /design-refinement-phase/design-refinement/
-- name: Photo Gallery
-  link: /photo-gallery/
-- name: Meet the Team
-  link: /about-us/
+- name: Final Refinement
+  link: /final-refinement-phase/placeholder-3/
+  dropdown:
+    - name: Placeholder 1
+      link: /final-refinement-phase/placeholder-1/
+    - name: Placeholder 2
+      link: /final-refinement-phase/placeholder-2/
+    - name: Placeholder 3
+      link: /final-refinement-phase/placeholder-3/
+- name: About
+  link:
+  dropdown:
+    - name: Photo Gallery
+      link: /photo-gallery/
+    - name: Meet the Team
+      link: /about-us/
