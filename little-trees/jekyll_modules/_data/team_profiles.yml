@@ -3,17 +3,17 @@ height: is-medium
 items:
   - title: Yehya Albakri
     subtitle: Olin College
-    icon: 
+    icon: /uxd-2022-03/little-trees/images/yehya_profile_photo_square.jpg
     description: >
        
-    call_to_action_name: LinkedIn
+    call_to_action_name: 
     call_to_action_link:
   - title: William Li
     subtitle: Babson College
     icon: 
     description: >
       
-    call_to_action_name: LinkedIn
+    call_to_action_name: 
     call_to_action_link: 
   - title: Alexander Matsoukas
     subtitle: Olin College
@@ -28,11 +28,11 @@ items:
     description: >
       
     call_to_action_name: LinkedIn
-    call_to_action_link:
+    call_to_action_link: https://www.linkedin.com/in/zaynpatel/
   - title: Lydia Sammy
     subtitle: Babson College
     icon: 
     description: >
       
-    call_to_action_name: LinkedIn
+    call_to_action_name: 
     call_to_action_link:
