@@ -6,8 +6,8 @@ items:
     icon: /uxd-2022-03/little-trees/images/yehya_profile_photo_square.jpg
     description: >
        
-    call_to_action_name: 
-    call_to_action_link:
+    call_to_action_name: LinkedIn
+    call_to_action_link: https://www.linkedin.com/in/yalb
   - title: William Li
     subtitle: Babson College
     icon: 
