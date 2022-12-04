@@ -28,14 +28,14 @@
     - name: Design Refinement
       link: /design-refinement-phase/design-refinement/
 - name: Final Refinement
-  link: /final-refinement-phase/placeholder-3/
+  link: /final-refinement-phase/final-refinement/
   dropdown:
-    - name: Placeholder 1
-      link: /final-refinement-phase/placeholder-1/
-    - name: Placeholder 2
-      link: /final-refinement-phase/placeholder-2/
-    - name: Placeholder 3
-      link: /final-refinement-phase/placeholder-3/
+    - name: Formal Usability Study Plan
+      link: /final-refinement-phase/formal-usability-study-plan/
+    - name: Formal Usability Study Results
+      link: /final-refinement-phase/formal-usability-study-results/
+    - name: Final Refinement
+      link: /final-refinement-phase/final-refinement/
 - name: About
   link:
   dropdown:
