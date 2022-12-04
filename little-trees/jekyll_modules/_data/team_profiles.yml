@@ -10,11 +10,11 @@ items:
     call_to_action_link: https://www.linkedin.com/in/yalb
   - title: William Li
     subtitle: Babson College
-    icon: 
+    icon: /uxd-2022-03/little-trees/images/will_profile_photo_square.jpg
     description: >
       
-    call_to_action_name: 
-    call_to_action_link: 
+    call_to_action_name: LinkedIn
+    call_to_action_link: https://www.linkedin.com/in/williamliyyc/
   - title: Alexander Matsoukas
     subtitle: Olin College
     icon: /uxd-2022-03/little-trees/images/alex_profile_photo_square.jpg
@@ -24,7 +24,7 @@ items:
     call_to_action_link: https://www.linkedin.com/in/a-matsoukas/
   - title: Zayn Patel
     subtitle: Babson College
-    icon: 
+    icon: /uxd-2022-03/little-trees/images/zayn_profile_photo_square.jpg
     description: >
       
     call_to_action_name: LinkedIn
