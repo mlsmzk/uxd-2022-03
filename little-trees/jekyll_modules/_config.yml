@@ -19,13 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Team Little Trees
-email: your-email@example.com
+email:
 description: >- # this means to ignore newlines until "baseurl:"
   Project site for Team Little Trees. Fall 2022 User Experience Design at Olin College of Engineering.
 baseurl: "/uxd-2022-03/little-trees" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username:
+github_username:
+
+# Meta Tags
+theme_color: '#00d1b2'
 
 # Build settings
 markdown: GFM

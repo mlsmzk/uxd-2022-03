@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content=#ffffff>
+    <meta name="theme-color" content=#00d1b2>
     <link rel="stylesheet" href="/uxd-2022-03/little-trees/assets/css/app.css">
     <link rel="shortcut icon" type="image/png"
            href="/uxd-2022-03/little-trees/images/favicon.png" 
@@ -105,11 +105,33 @@
                     
                 
                     
-                    <a href="/uxd-2022-03/little-trees/photo-gallery/" class="navbar-item ">Photo Gallery</a>
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/uxd-2022-03/little-trees/final-refinement-phase/final-refinement/" class="navbar-link ">Final Refinement</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-plan/" class="navbar-item ">Formal Usability Study Plan</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-results/" class="navbar-item ">Formal Usability Study Results</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/lightning-presentation/" class="navbar-item ">Lightning Presentation</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/final-refinement/" class="navbar-item ">Final Refinement</a>
+                            
+                        </div>
+                    </div>
                     
                 
                     
-                    <a href="/uxd-2022-03/little-trees/about-us/" class="navbar-item ">Meet the Team</a>
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="" class="navbar-link ">About</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/uxd-2022-03/little-trees/photo-gallery/" class="navbar-item ">Photo Gallery</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/about-us/" class="navbar-item ">Meet the Team</a>
+                            
+                        </div>
+                    </div>
                     
                 
                 
@@ -135,8 +157,6 @@
 </section>
     
     
-
-
     <section class="section">
         <div class="container">
             <div class="columns is-multiline">
@@ -190,27 +210,31 @@
 <tbody>
 <tr>
 <td><strong>Shopping List</strong>, where the user has a set amount of items they wish to buy before entering the store.</td>
-<td><img src="/uxd-2022-03/little-trees/images/shopping_list.jpg" alt="" /></td>
+<td><img src="/uxd-2022-03/little-trees/images/shopping_list.jpg" alt="" width="600"></td>
 </tr>
 <tr>
 <td><strong>Explore</strong>, where the user wishes to browse in the store before making purchasing decisions.</td>
-<td><img src="/uxd-2022-03/little-trees/images/shopping_exp.jpg" alt="" /></td>
+<td><img src="/uxd-2022-03/little-trees/images/shopping_exp.jpg" alt="" width="600"></td>
 </tr>
 <tr>
 <td><strong>Search</strong>, where the user is looking for a certain product in the store.</td>
-<td><img src="/uxd-2022-03/little-trees/images/shopping_options.jpg" alt="" /></td>
+<td><img src="/uxd-2022-03/little-trees/images/shopping_options.jpg" alt="" width="600"></td>
 </tr>
 </tbody>
 </table>
 <p>In each of these phases, our solution caters information specific to what is most helpful to the user. For the shopping list setting, entering an aisle that contains an item on your list prompts the screen shown in the table that indicates where the item is, and if there are alternatives that are more suitable to your preferences (these are set up during the one-time configuration phase). For the explore phase, items are suggested at the top of the screen, and these get more specific as you get closer to the shelf, or a specific item. Finally, for the search phase, a menu of only the products available in the store are shown to the user, and they are able to search or browse by category.</p>
 <h3 id="how-does-it-work">How Does it Work?</h3>
-<p><img src="/uxd-2022-03/little-trees/images/interaction_flow.png" alt="Interaction Flow" /></p>
+<p><img 
+src="/uxd-2022-03/little-trees/images/interaction_flow.png"
+style=" display:block; margin-left:auto; margin-right:auto"
+width="800"
+/></p>
 <p>Our AR product works in 4 steps, originally, and 2.5 steps after the user becomes a routine shopper. After users download our product from the Meta AR app store, they will complete five onboarding steps that give us information about them as a shopper. We have questions about what type of shopper they are, how we can help in their shopping experience, what the core features of our app are, and more. Because AR is a new experience for some, the first step of onboarding is to give users an example of what a shopping experience might look like through an at-home simulation where they can get a description of our app, overlaid in their environment, interact with grocery store objects in their home, and see the core features superimposed on those objects. It’s important for users onboard in augmented reality instead of their mobile device. In order to create a database of the shopper’s typical goods and where/how they shop, we want to learn about their habits. We’ve created subpersonas of Techno Todd (our main persona) like an uncontrollable shopper (hint: this is the football fan at costco with 3 packs of tortilla chips). The shopper information helps us know which AR mode to give a shopper. Because the users we have will prefer variation in how they see data and compare products, we want to set up these modes and a user can manually change them after. Information about where a user shops, what stage of life they’re in, typical products on their list help us gather enough information to recommend items a shopper might like. The worst case is when a shopper standing in an aisle inputting onboarding-like information because we know them well enough. Even worse if they have a child who is running around Costco looking for free samples while they’re finding a more sustainable cereal and type out where they’re shopping from. We were very fortunate to have been able to present a basic paper prototype to a local professor teaching sustainable entrepreneurship, who is willing to pay more to live an eco-conscious lifestyle (which lines up with our intended user base); we will refer to this user as Professor, to preserve his anonymity. The modes for shopping that we developed were recommended by Professor. He mentioned that in addition to giving users modes, part of the onboarding should be spent learning about their priorities while shopping. To paraphrase, he mentioned: “Do they care more about price or sustainability or something else? I would pay more for a product if it was more sustainable but that’s a specific fact about me as a shopper.” We added a section for user priorities after Professor’s recommendation.</p>
 <p>Another insight we got from the interview with Professor was, to get information on the frequency a user buys products so we know to remind them if they forget. Or, if they buy milk every two weeks, we can notify them at that frequency. This is part of the pre-shopping when a user is giving us information about their typical cart. In addition to the product names (ex: chicken), they can open a dropdown menu and tell us how often they buy the product (ex: once a month). Shoppers can indicate if they’re seasonal too.</p>
 <p>While a user is in store, sections of the aisle will be highlighted for them, giving them information about where to find an item. As they approach and view the item we recommended for them, more information will appear at a set time interval (ex: every five seconds, more statistics and products will appear). This was a recommendation by our user to prevent user overwhelm. Users can compare products that are next to each other, and we will give them information about the price, user reviews, sustainability score, externalities of buying the product, if there is a product available at another store that’s more sustainable, etc.</p>
 <p>After they’ve completed their shopping experience and have arrived home, we will spend five minutes with a user to wrap up their shopping experience. This includes an overall score of how they shopped, generated by weighting the leaves of the products they bought and dividing by the total number of products. Our user mentioned that mild gamification between users could encourage more sustainable shopping behavior, we’ve acknowledged this too and added it as a feature.</p>
 <p>Steps 2, 3, 4 will be repeated every time a user shops with us.</p>
-<a href="https://drive.google.com/drive/folders/1zWxhQ8zMW5KNvaLQKRvdNQqMzig9nd1f?usp=sharing" target="_blank">
+<a class="normal_link" href="https://drive.google.com/drive/folders/1zWxhQ8zMW5KNvaLQKRvdNQqMzig9nd1f?usp=sharing" target="_blank">
     Our Lo-Fi Prototype Photos Showing how the Experience Works
 </a>
 <h3 id="how-well-does-it-meet-user-needs-in-what-ways-does-it-fall-short">How Well Does it Meet User Needs? In What Ways Does it Fall Short?</h3>

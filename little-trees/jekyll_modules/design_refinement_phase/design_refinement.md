@@ -6,22 +6,26 @@ menubar: design_refinement_menu
 permalink: /design-refinement-phase/design-refinement/
 ---
 ### What is your design?
-This description is an overview of what is written in the [Design Development Submission](../design_development_phase/design_development.md), with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our [Cognitive Walkthrough](cognitive_walkthrough.md).
+This description is an overview of what is written in the <a class="normal_link" href="/uxd-2022-03/little-trees/design-development-phase/design-development/">Design Development Submission</a>, with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our <a class="normal_link" href="/uxd-2022-03/little-trees/design-refinement-phase/cognitive-walkthrough/">Cognitive Walkthrough</a>.
 
 The design that our team ended up choosing is an in-store shopping aide in the form of AR glasses. Our core problem statement is that it is currently very difficult for consumers to compare companies based on their carbon footprint or other ESG (environmental, social, governance) metrics. Our AR glasses solution empower users to utilize readily available statistics, without needing to spend hours of their own time parsing datatables online, to evaluate the items they are buying in real-time and to make optimal purchasing decisions for themselves.
 
 As stated in our feature idea description, our solution needs to include an interface that can be quickly understood by the average consumer that allows them to identify the most sustainable product out of the options available to them in the store. This means that the information that our AR glasses present to the user needs to be streamlined, simple, and essential. 
 
 Our interface is composed of three key shopping phases:
-||Paper Prototype|Figma|
+|| Paper Prototype | Figma |
 | ----------- | ----------- | ----------- |
-|**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.|![](../images/shopping_list.jpg)| ![](../images/figma_shopping_list.png) |
-|**Explore**, where the user wishes to browse in the store before making purchasing decisions.|![](../images/shopping_exp.jpg)| ![](../images/figma_explore.png)|
-|**Search**, where the user is looking for a certain product in the store.|![](../images/shopping_options.jpg)| ![](../images/figma_search.png) |
+|**Shopping List**, where the user has a set amount of items they wish to buy before entering the store.|<img src="/uxd-2022-03/little-trees/images/shopping_list.jpg" width="600">|<img src="/uxd-2022-03/little-trees/images/figma_shopping_list.png" width="1800">|
+|**Explore**, where the user wishes to browse in the store before making purchasing decisions.|<img src="/uxd-2022-03/little-trees/images/shopping_exp.jpg" width="600">|<img src="/uxd-2022-03/little-trees/images/figma_explore.png" width="1800">|
+|**Search**, where the user is looking for a certain product in the store.|<img src="/uxd-2022-03/little-trees/images/shopping_options.jpg" width="600">|<img src="/uxd-2022-03/little-trees/images/figma_search.png" width="1800">|
 
 
 ### How Does it Work?
-![Interaction Flow](../images/interaction_flow.png)
+<img 
+    src="/uxd-2022-03/little-trees/images/interaction_flow.png"
+    style=" display:block; margin-left:auto; margin-right:auto"
+    width="800"
+/>
 
 Our AR product works in 4 steps, originally, and 2.5 steps after the user becomes a routine shopper. the first step of onboarding is to give users an example of what a shopping experience might look like through an at-home simulation where they can get a description of our app, overlaid in their environment, interact with grocery store objects in their home, and see the core features superimposed on those objects.Because the users we have will prefer variation in how they see data and compare products, we want to set up these modes and a user can manually change them after. Information about where a user shops, what stage of life they’re in, typical products on their list help us gather enough information to recommend items a shopper might like. The modes for shopping that we developed were recommended by Professor. He mentioned that in addition to giving users modes, part of the onboarding should be spent learning about their priorities while shopping. To paraphrase, he mentioned: “Do they care more about price or sustainability or something else? I would pay more for a product if it was more sustainable but that’s a specific fact about me as a shopper.” 
 
@@ -52,7 +56,11 @@ During this phase, we gained some key insights around our interactive prototype.
  
 Something that we discussed heavily when implementing the Explore shopping phase and the Shopping List shopping phase was how to remove items from the shopping list or dismiss explore suggestions. The way we initially approached this was to simply delete or remove them when prompted with no way of easily getting them back. We realized when putting our prototype flows together that this causes a large usability issue if someone removes or dismisses something by mistake. In terms of User Control and Freedom, this does not satisfy the heuristic at all. The way we implemented this insight into our prototype is via a confirm message, shown below.
 
-![Confirm Button](../images/confirm_button.png)
+<img 
+    src="/uxd-2022-03/little-trees/images/confirm_button.png"
+    style=" display:block; margin-left:auto; margin-right:auto"
+    width="350"
+/>
 
 Furthermore, since we divided our paper prototyping work amongst ourselves and because fidelity did not matter as much in the Design Development Phase, our paper prototypes did not have consistency in formatting or design. During this phase, as we worked to integrate our individual sections of the prototype into one cohesive user experience, we learned to work effectively with Figma functionality to help maintain consistent standards between frames; specifically, we utilized Figma components to make sure that changes to one frame’s modules would propagate to all frames with the same module.
  
@@ -70,17 +78,17 @@ Because we were not able to conduct real user testing with members in our person
 6. How can the team make the user experience smoother and more streamlined? Currently, there is a concern about lack of ‘back’ buttons for instance.
 
 ### Phase Effort Distribution
-| Task      | Team Member(s) |
-| ----------- | ----------- |
-| Automated Prototype      | All       |
-| Cognitive Walkthrough   | Zayn        |
-| Cognitive Walkthrough Notes   | Alex, Yehya        |
-| Individual Heuristic Evaluations   | All        |
-|  Team Heuristic Evalutation   | All        |
-| What is Your Design?   | Updated from Design Refinement        |
-| What Changed?  | Zayn        |
-| Tradeoffs      | Yehya       |
-| Key Insights   | Alex        |
-| Questions and Shortcomings   | Lydia        |
-| Site Updates   | Alex, Zayn        |
+| Task                             | Team Member(s)                 |
+| -------------------------------- | ------------------------------ |
+| Automated Prototype              | All                            |
+| Cognitive Walkthrough            | Zayn                           |
+| Cognitive Walkthrough Notes      | Alex, Yehya                    |
+| Individual Heuristic Evaluations | All                            |
+| Team Heuristic Evalutation       | All                            |
+| What is Your Design?             | Updated from Design Refinement |
+| What Changed?                    | Zayn                           |
+| Tradeoffs                        | Yehya                          |
+| Key Insights                     | Alex                           |
+| Questions and Shortcomings       | Lydia                          |
+| Site Updates                     | Alex, Zayn                     |
 

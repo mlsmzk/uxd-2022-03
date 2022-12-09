@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content=#ffffff>
+    <meta name="theme-color" content=#00d1b2>
     <link rel="stylesheet" href="/uxd-2022-03/little-trees/assets/css/app.css">
     <link rel="shortcut icon" type="image/png"
            href="/uxd-2022-03/little-trees/images/favicon.png" 
@@ -105,11 +105,33 @@
                     
                 
                     
-                    <a href="/uxd-2022-03/little-trees/photo-gallery/" class="navbar-item ">Photo Gallery</a>
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/uxd-2022-03/little-trees/final-refinement-phase/final-refinement/" class="navbar-link ">Final Refinement</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-plan/" class="navbar-item ">Formal Usability Study Plan</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-results/" class="navbar-item ">Formal Usability Study Results</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/lightning-presentation/" class="navbar-item ">Lightning Presentation</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/final-refinement/" class="navbar-item ">Final Refinement</a>
+                            
+                        </div>
+                    </div>
                     
                 
                     
-                    <a href="/uxd-2022-03/little-trees/about-us/" class="navbar-item ">Meet the Team</a>
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="" class="navbar-link ">About</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/uxd-2022-03/little-trees/photo-gallery/" class="navbar-item ">Photo Gallery</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/about-us/" class="navbar-item ">Meet the Team</a>
+                            
+                        </div>
+                    </div>
                     
                 
                 
@@ -135,8 +157,6 @@
 </section>
     
     
-
-
     <section class="section">
         <div class="container">
             <div class="columns is-multiline">
@@ -182,7 +202,7 @@
                     
 <div class="content">
     <h3 id="what-is-your-design">What is your design?</h3>
-<p>This description is an overview of what is written in the <a href="/uxd-2022-03/little-trees/design-development-phase/design-development/">Design Development Submission</a>, with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our <a href="/uxd-2022-03/little-trees/design-refinement-phase/cognitive-walkthrough/">Cognitive Walkthrough</a>.</p>
+<p>This description is an overview of what is written in the <a class="normal_link" href="/uxd-2022-03/little-trees/design-development-phase/design-development/">Design Development Submission</a>, with some updates to reflect the wireframe prototype. If you want a walkthrough of the shopping experience, see our <a class="normal_link" href="/uxd-2022-03/little-trees/design-refinement-phase/cognitive-walkthrough/">Cognitive Walkthrough</a>.</p>
 <p>The design that our team ended up choosing is an in-store shopping aide in the form of AR glasses. Our core problem statement is that it is currently very difficult for consumers to compare companies based on their carbon footprint or other ESG (environmental, social, governance) metrics. Our AR glasses solution empower users to utilize readily available statistics, without needing to spend hours of their own time parsing datatables online, to evaluate the items they are buying in real-time and to make optimal purchasing decisions for themselves.</p>
 <p>As stated in our feature idea description, our solution needs to include an interface that can be quickly understood by the average consumer that allows them to identify the most sustainable product out of the options available to them in the store. This means that the information that our AR glasses present to the user needs to be streamlined, simple, and essential.</p>
 <p>Our interface is composed of three key shopping phases:</p>
@@ -197,23 +217,27 @@
 <tbody>
 <tr>
 <td><strong>Shopping List</strong>, where the user has a set amount of items they wish to buy before entering the store.</td>
-<td><img src="/uxd-2022-03/little-trees/images/shopping_list.jpg" alt="" /></td>
-<td><img src="/uxd-2022-03/little-trees/images/figma_shopping_list.png" alt="" /></td>
+<td><img src="/uxd-2022-03/little-trees/images/shopping_list.jpg" width="600"></td>
+<td><img src="/uxd-2022-03/little-trees/images/figma_shopping_list.png" width="1800"></td>
 </tr>
 <tr>
 <td><strong>Explore</strong>, where the user wishes to browse in the store before making purchasing decisions.</td>
-<td><img src="/uxd-2022-03/little-trees/images/shopping_exp.jpg" alt="" /></td>
-<td><img src="/uxd-2022-03/little-trees/images/figma_explore.png" alt="" /></td>
+<td><img src="/uxd-2022-03/little-trees/images/shopping_exp.jpg" width="600"></td>
+<td><img src="/uxd-2022-03/little-trees/images/figma_explore.png" width="1800"></td>
 </tr>
 <tr>
 <td><strong>Search</strong>, where the user is looking for a certain product in the store.</td>
-<td><img src="/uxd-2022-03/little-trees/images/shopping_options.jpg" alt="" /></td>
-<td><img src="/uxd-2022-03/little-trees/images/figma_search.png" alt="" /></td>
+<td><img src="/uxd-2022-03/little-trees/images/shopping_options.jpg" width="600"></td>
+<td><img src="/uxd-2022-03/little-trees/images/figma_search.png" width="1800"></td>
 </tr>
 </tbody>
 </table>
 <h3 id="how-does-it-work">How Does it Work?</h3>
-<p><img src="/uxd-2022-03/little-trees/images/interaction_flow.png" alt="Interaction Flow" /></p>
+<p><img 
+src="/uxd-2022-03/little-trees/images/interaction_flow.png"
+style=" display:block; margin-left:auto; margin-right:auto"
+width="800"
+/></p>
 <p>Our AR product works in 4 steps, originally, and 2.5 steps after the user becomes a routine shopper. the first step of onboarding is to give users an example of what a shopping experience might look like through an at-home simulation where they can get a description of our app, overlaid in their environment, interact with grocery store objects in their home, and see the core features superimposed on those objects.Because the users we have will prefer variation in how they see data and compare products, we want to set up these modes and a user can manually change them after. Information about where a user shops, what stage of life they’re in, typical products on their list help us gather enough information to recommend items a shopper might like. The modes for shopping that we developed were recommended by Professor. He mentioned that in addition to giving users modes, part of the onboarding should be spent learning about their priorities while shopping. To paraphrase, he mentioned: “Do they care more about price or sustainability or something else? I would pay more for a product if it was more sustainable but that’s a specific fact about me as a shopper.”</p>
 <p>While a user is in store, sections of the aisle will be highlighted for them, giving them information about where to find an item. As they approach and view the item we recommended for them, more information will appear at a set time interval (ex: every five seconds, more statistics and products will appear). Users can compare products that are next to each other, and we will give them information about the price, user reviews, sustainability score, externalities of buying the product, if there is a product available at another store that’s more sustainable, etc.</p>
 <p>After they’ve completed their shopping experience and have arrived home, we will spend five minutes with a user to wrap up their shopping experience. This includes an overall score of how they shopped, generated by weighting the leaves of the products they bought and dividing by the total number of products.</p>
@@ -232,7 +256,11 @@
 <h3 id="what-if-any-key-insights-did-you-gain-during-this-phase">What (if any) key insights did you gain during this phase?</h3>
 <p>During this phase, we gained some key insights around our interactive prototype. These insights fell into a couple of categories. The first method in which we gained insights during this phase was during our transition from low-fidelity paper and transparency screen prototypes to moderate-fidelity figma interactive wireframes; as we worked to bring more functionality to our design and clean up the interface, we began to discover usability issues in our original designs and had good discussions around how to fix them. The next method in which we learned about our interactive prototype was through the cognitive walkthrough that our team conducted. The walkthrough of the Explore, Search, and Shopping List phases of our prototype was conducted by Zayn, who worked largely on the configuration and pre-shopping flows, so we were able to receive feedback from someone without much background knowledge on how the screens were designed. Similarly, we received great insights from the heuristic evaluation we received from other members of the class who were unfamiliar with our concept and design; receiving feedback from users with no prior experience revealed issues with our prototype that we could not see from our biased perspective. Unfortunately, we were not able to do user testing during this phase with people who fall in our target personas, which is a limiting factor on the learnings we were able to receive in this phase.</p>
 <p>Something that we discussed heavily when implementing the Explore shopping phase and the Shopping List shopping phase was how to remove items from the shopping list or dismiss explore suggestions. The way we initially approached this was to simply delete or remove them when prompted with no way of easily getting them back. We realized when putting our prototype flows together that this causes a large usability issue if someone removes or dismisses something by mistake. In terms of User Control and Freedom, this does not satisfy the heuristic at all. The way we implemented this insight into our prototype is via a confirm message, shown below.</p>
-<p><img src="/uxd-2022-03/little-trees/images/confirm_button.png" alt="Confirm Button" /></p>
+<p><img 
+src="/uxd-2022-03/little-trees/images/confirm_button.png"
+style=" display:block; margin-left:auto; margin-right:auto"
+width="350"
+/></p>
 <p>Furthermore, since we divided our paper prototyping work amongst ourselves and because fidelity did not matter as much in the Design Development Phase, our paper prototypes did not have consistency in formatting or design. During this phase, as we worked to integrate our individual sections of the prototype into one cohesive user experience, we learned to work effectively with Figma functionality to help maintain consistent standards between frames; specifically, we utilized Figma components to make sure that changes to one frame’s modules would propagate to all frames with the same module.</p>
 <p>Between the cognitive walkthrough feedback and the heuristic evaluation that we received from another team, we were able to gather detailed feedback to inform our next steps. Our largest problems revolved around aesthetic, real-world usability, and lack of user control and freedom. In order to make it easier for us to keep our formatting and color consistent, our team strayed away from diverse colors and opted for a gray color palette. We learned that this is not appealing to users and that we should try to incorporate more color to make our interface more engaging. We also learned to be wary of the assumptions we make about our users in the configuration screens, both regarding their physical appearance and their personality traits, as our users are diverse and varied. This is something we overlooked because we were trying to tie our user group to our personas but ended up relying too heavily on bias and stereotypes about how people shop. Finally, we learned that we had a lot of issues around user control and freedom; in general, there was a lack of ways to undo or to return to a previous screen, and we also learned that we need to include more information to help the user understand the shorthand we use (leaves, stars).</p>
 <p>Because we were not able to conduct real user testing with members in our persona groups, our insights are limited by the assumptions we are making about the people for which we are designing. All of the insights that we gained during this phase were learned through testing conducted by designers and design students who have their own biases about what design practices are best; next steps for our team would be to further refine our prototype based on the insights we gained, but to take these insights with a grain of salt until we are able to put our prototype in front of prospective users.</p>

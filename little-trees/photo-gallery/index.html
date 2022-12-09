@@ -10,7 +10,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="theme-color" content=#ffffff>
+    <meta name="theme-color" content=#00d1b2>
     <link rel="stylesheet" href="/uxd-2022-03/little-trees/assets/css/app.css">
     <link rel="shortcut icon" type="image/png"
            href="/uxd-2022-03/little-trees/images/favicon.png" 
@@ -105,11 +105,33 @@
                     
                 
                     
-                    <a href="/uxd-2022-03/little-trees/photo-gallery/" class="navbar-item is-active">Photo Gallery</a>
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="/uxd-2022-03/little-trees/final-refinement-phase/final-refinement/" class="navbar-link ">Final Refinement</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-plan/" class="navbar-item ">Formal Usability Study Plan</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-results/" class="navbar-item ">Formal Usability Study Results</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/lightning-presentation/" class="navbar-item ">Lightning Presentation</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/final-refinement-phase/final-refinement/" class="navbar-item ">Final Refinement</a>
+                            
+                        </div>
+                    </div>
                     
                 
                     
-                    <a href="/uxd-2022-03/little-trees/about-us/" class="navbar-item ">Meet the Team</a>
+                    <div class="navbar-item has-dropdown is-hoverable ">
+                        <a href="" class="navbar-link ">About</a>
+                        <div class="navbar-dropdown">
+                            
+                            <a href="/uxd-2022-03/little-trees/photo-gallery/" class="navbar-item is-active">Photo Gallery</a>
+                            
+                            <a href="/uxd-2022-03/little-trees/about-us/" class="navbar-item ">Meet the Team</a>
+                            
+                        </div>
+                    </div>
                     
                 
                 
@@ -135,8 +157,6 @@
 </section>
     
     
-
-
     <section class="section">
         <div class="container">
             <div class="columns is-multiline">
@@ -150,7 +170,7 @@
     
     <div class="columns is-multiline">
         <div class="column is-12">
-            <p class="title is-3 has-text-centered">First Image Gallery Title</p>
+            <p class="title is-3 has-text-centered">Ideation and Paper Prototyping</p>
         </div>
         
         <div class="column is-4-desktop is-6-tablet">
@@ -219,7 +239,76 @@
     
     <div class="columns is-multiline">
         <div class="column is-12">
-            <p class="title is-3 has-text-centered">Second Image Gallery Title</p>
+            <p class="title is-3 has-text-centered">Trancparency Screens</p>
+        </div>
+        
+        <div class="column is-4-desktop is-6-tablet">
+            <div class="card">
+                <div class="card-image">
+                    <div x-data="{ open: false }" markdown="0">
+    <a x-on:click="open = true" title="View large image">
+        <figure class="image is-16by9">
+            <img src="https://via.placeholder.com/800x450" alt="The alt text for the image">
+        </figure>
+    </a>
+    <div class="modal" x-bind:class="open ? 'is-active' : ''" x-cloak>
+        <div class="modal-background" x-on:click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="https://via.placeholder.com/800x450" alt="The alt text for the image">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" x-on:click="open = false"></button>
+    </div>
+</div>
+
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <p>The image description can be written in <strong>markdown</strong> if required</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+        <div class="column is-4-desktop is-6-tablet">
+            <div class="card">
+                <div class="card-image">
+                    <div x-data="{ open: false }" markdown="0">
+    <a x-on:click="open = true" title="View large image">
+        <figure class="image is-4by3">
+            <img src="https://via.placeholder.com/800x600" alt="The alt text for the image">
+        </figure>
+    </a>
+    <div class="modal" x-bind:class="open ? 'is-active' : ''" x-cloak>
+        <div class="modal-background" x-on:click="open = false"></div>
+        <div class="modal-content">
+            
+                <img src="https://via.placeholder.com/800x600" alt="The alt text for the image">
+            
+        </div>
+        <button class="modal-close is-large" aria-label="close" x-on:click="open = false"></button>
+    </div>
+</div>
+
+                </div>
+                <div class="card-content">
+                    <div class="content">
+                        <p>The image description</p>
+
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    
+    <div class="columns is-multiline">
+        <div class="column is-12">
+            <p class="title is-3 has-text-centered">Figma Prototyping</p>
         </div>
         
         <div class="column is-4-desktop is-6-tablet">

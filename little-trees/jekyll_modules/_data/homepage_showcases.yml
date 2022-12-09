@@ -1,0 +1,61 @@
+intro: |-
+
+items:
+  - title: Our Process
+    subtitle: Bringing Little Trees AR from an Idea to a Functional Interface
+    description: |-
+      Click below to explore the four main phases that our team completed over the course of 14 weeks.
+    features:
+      - text: Needs Analysis
+        link: /uxd-2022-03/little-trees/needs-analysis-phase/consent-narrative/
+      - text: Design Development
+        link: /uxd-2022-03/little-trees/design-development-phase/design-idea-1-artifacts/
+      - text: Design Refinement
+        link: /uxd-2022-03/little-trees/design-refinement-phase/prototype-documentation/
+      - text: Final Refinement
+        link: /uxd-2022-03/little-trees/final-refinement-phase/formal-usability-study-plan/
+    features_styles: is-centered is-primary is-outlined
+    image: https://via.placeholder.com/1024x788
+    image_ratio: is-16by9
+    link:
+    link_text:
+
+  - title: Our Prototype
+    subtitle: Interact with Our Functional Figma Wireframe
+    description: |-
+      Click below to visit our Figma prototype, and see our prototype documentation for guidance on interacting with
+      our prototype effectively.
+    features:
+      - text: Little Trees AR Figma Prototype
+        link: https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1
+    features_styles: is-centered is-primary is-outlined
+    image: https://via.placeholder.com/1024x788
+    image_ratio: is-16by9
+    link: /uxd-2022-03/little-trees/design-refinement-phase/prototype-documentation/
+    link_text: Prototype Documentation
+
+  - title: Photo Gallery
+    subtitle: Explore our Transition from Low-Fidelity to High-Fidelity Prototypes
+    description: |-
+      Click below to visit our photo gallery, and see our Google Drive Folder for even more photo documentation!
+    features:
+      - text: Photo Gallery
+        link: /uxd-2022-03/little-trees/photo-gallery/
+    features_styles: is-centered is-primary is-outlined
+    image: https://via.placeholder.com/1024x788
+    image_ratio: is-16by9
+    link: https://drive.google.com/drive/u/0/folders/1zWxhQ8zMW5KNvaLQKRvdNQqMzig9nd1f
+    link_text: Google Drive Folder
+
+  - title: Our Team
+    subtitle: Meet the Team Behind Little Trees AR
+    description: |-
+      
+    features:
+      - text: About Us
+        link: /uxd-2022-03/little-trees/about-us/
+    features_styles: is-centered is-primary is-outlined
+    image: https://via.placeholder.com/1024x788
+    image_ratio: is-16by9
+    link: 
+    link_text: 
