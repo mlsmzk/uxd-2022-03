@@ -3,3 +3,5 @@
 ## [Design Refinement](/design-refinement/design-refinement.md)
 
 ## [Usability Study Plan](/usability-study/usability-study.md)
+
+## [Lightning Presentation](./lightning.md)
