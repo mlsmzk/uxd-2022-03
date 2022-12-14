@@ -27,10 +27,7 @@
                         <ul class="block-list {{ item.features_styles }}">
                             {% for feature in item.features %}
                             <li>
-                                <a 
-                                    href="{{ feature.link }}"
-                                    target="{% if feature.text=='Little Trees AR Figma Prototype' %} _blank {% endif %}"
-                                >
+                                <a href="{{ feature.link }}">
                                         {{ feature.text }}
                                 </a>
                             </li>
@@ -41,7 +38,7 @@
                         {% if item.link_text %}
                         <a 
                             href="{{ item.link }}" 
-                            target="{% if item.link_text=='Google Drive Folder' %} _blank {% endif %}"
+                            target="{% if item.link_text=='Google Drive Folder' or item.link_text=='Little Trees AR Figma Prototype' %} _blank {% endif %}"
                             class="button is-primary"
                         >
                             {{ item.link_text }}

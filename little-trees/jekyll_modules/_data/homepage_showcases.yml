@@ -26,13 +26,13 @@ items:
       Click below to visit our Figma prototype, and see our prototype documentation for guidance on interacting with
       our prototype effectively.
     features:
-      - text: Little Trees AR Figma Prototype
-        link: https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1
+      - text: Prototype Documentation
+        link: /uxd-2022-03/little-trees/design-refinement-phase/prototype-documentation/
     features_styles: is-centered is-primary is-outlined
     image: https://via.placeholder.com/1024x788
     image_ratio: is-16by9
-    link: /uxd-2022-03/little-trees/design-refinement-phase/prototype-documentation/
-    link_text: Prototype Documentation
+    link: https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1
+    link_text: Little Trees AR Figma Prototype
 
   - title: Photo Gallery
     subtitle: Explore our Transition from Low-Fidelity to High-Fidelity Prototypes
