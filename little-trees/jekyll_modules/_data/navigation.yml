@@ -38,10 +38,5 @@
       link: /final-refinement-phase/lightning-presentation/
     - name: Final Refinement
       link: /final-refinement-phase/final-refinement/
-- name: About
-  link:
-  dropdown:
-    - name: Photo Gallery
-      link: /photo-gallery/
-    - name: Meet the Team
-      link: /about-us/
+- name: About Us
+  link: /about-us/

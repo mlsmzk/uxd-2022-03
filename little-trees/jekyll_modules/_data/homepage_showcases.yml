@@ -4,7 +4,7 @@ items:
   - title: Our Process
     subtitle: Bringing Little Trees AR from an Idea to a Functional Interface
     description: |-
-      Click below to explore the four main phases that our team completed over the course of 14 weeks.
+      Explore the four main phases that our team completed over the course of 14 weeks.
     features:
       - text: Needs Analysis
         link: /uxd-2022-03/little-trees/needs-analysis-phase/consent-narrative/
@@ -23,24 +23,22 @@ items:
   - title: Our Prototype
     subtitle: Interact with Our Functional Figma Wireframe
     description: |-
-      Click below to visit our Figma prototype, and see our prototype documentation for guidance on interacting with
+      Visit our Figma prototype, and see our prototype documentation for guidance on interacting with
       our prototype effectively.
     features:
-      - text: Little Trees AR Figma Prototype
-        link: https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1
+      - text: Prototype Documentation
+        link: /uxd-2022-03/little-trees/design-refinement-phase/prototype-documentation/
     features_styles: is-centered is-primary is-outlined
     image: https://via.placeholder.com/1024x788
     image_ratio: is-16by9
-    link: /uxd-2022-03/little-trees/design-refinement-phase/prototype-documentation/
-    link_text: Prototype Documentation
+    link: https://www.figma.com/file/3CFsnljoqRCtg0DkCvcSeH/Wireframing?node-id=0%3A1
+    link_text: Little Trees AR Figma Prototype
 
   - title: Photo Gallery
     subtitle: Explore our Transition from Low-Fidelity to High-Fidelity Prototypes
     description: |-
-      Click below to visit our photo gallery, and see our Google Drive Folder for even more photo documentation!
+      Visit our Google Drive Folder for more photo documentation!
     features:
-      - text: Photo Gallery
-        link: /uxd-2022-03/little-trees/photo-gallery/
     features_styles: is-centered is-primary is-outlined
     image: https://via.placeholder.com/1024x788
     image_ratio: is-16by9
