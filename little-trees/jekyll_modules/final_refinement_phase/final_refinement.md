@@ -62,7 +62,20 @@ Another heuristic issue was on the search flow, where users mentioned that they 
  
 Another heuristic violation occurred with our “you might prefer” menu, which provided more affordable or environmentally-friendly alternatives to products already in your shopping list. In our original prototype, the “you might prefer” options simply floated to the right of the shopping list, with no indication of what item was being replaced. We addressed this by highlighting the product in the shopping list in orange, indicating what the alternatives were being compared to, and would replace if accepted.
 
-<!-- Add Two Side-By-Side Images Here-->
+<div class="row">
+    <div class="column">
+        <img 
+            src="/uxd-2022-03/little-trees/images/refined_replace_on.png"
+            width="350"
+        />
+    </div>
+    <div class="column">
+        <img 
+            src="/uxd-2022-03/little-trees/images/refined_replace_off.png"
+            width="350"
+        />
+    </div>
+</div>
 
 </br>
 
@@ -74,7 +87,20 @@ Another heuristic violation occurred with our “you might prefer” menu, which
 
 This problem was broadly present throughout our prototype. When designing our initial prototype, we did not consider that the user would want to navigate back or explore other pages before making a decision. In implementing our modifications, we decided to add close buttons, back buttons, and breadcrumbs throughout the interface. These have the benefit of always allowing the user an option to head back to a page they are more familiar with and understand better. The breadcrumbs also help in allowing the user to understand where they are located within the interface.
 
-<!-- Add Two Side-By-Side Images Here-->
+<div class="row">
+    <div class="column">
+        <img 
+            src="/uxd-2022-03/little-trees/images/search_before.png"
+            width="350"
+        />
+    </div>
+    <div class="column">
+        <img 
+            src="/uxd-2022-03/little-trees/images/refined_search_after.png"
+            width="350"
+        />
+    </div>
+</div>
 
 </br>
 
@@ -84,7 +110,20 @@ This problem was broadly present throughout our prototype. When designing our in
 
 We removed the personas that had connotations associated with them. We agreed with the evaluation that having the user select from personas with certain connotations such as “poor impulse control” or “strict spender” would induce cognitive bias within the user’s selections. We do not want this bias because generally, we do not believe that it is an accurate representation of the user’s behaviors. Our solution to this problem was to replace the personas with items or categories of items that the user would purchase. We can then use the data from the user’s selections to inform their behavior patterns. Additionally, we added more focus on the pre-shopping experience, where the user would select their preferences from a selection of items to further inform us of their preferences.
 
-<!-- Add Two Side-By-Side Images Here-->
+<div class="row">
+    <div class="column">
+        <img 
+            src="/uxd-2022-03/little-trees/images/persona_before.png"
+            width="350"
+        />
+    </div>
+    <div class="column">
+        <img 
+            src="/uxd-2022-03/little-trees/images/persona_after.png"
+            width="350"
+        />
+    </div>
+</div>
 
 
 
