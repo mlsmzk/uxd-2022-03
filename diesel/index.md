@@ -5,3 +5,5 @@
 ## [Usability Study Plan](/usability-study/usability-study.md)
 
 ## [Lightning Presentation](./lightning.md)
+
+## [Final Refinement](./final_refinement.md)
