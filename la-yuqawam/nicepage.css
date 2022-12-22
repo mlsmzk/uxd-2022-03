@@ -40151,7 +40151,6 @@ a.u-link.u-text-hover-grey-90:hover {
   font-weight: 700;
   font-size: 1rem;
   text-transform: uppercase;
-  letter-spacing: normal;
 }
 
 .u-header .u-nav-2 {
@@ -40185,6 +40184,10 @@ a.u-link.u-text-hover-grey-90:hover {
     margin-top: 33px;
   }
 
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
+  }
+
   .u-header .u-nav-4 {
     width: 72px;
     height: 60px;
@@ -40196,10 +40199,6 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 }
 @media (max-width: 991px) {
-  .u-header .u-nav-1 {
-    letter-spacing: normal;
-  }
-
   .u-header .u-nav-4 {
     width: 72px;
     margin-left: 89px;
